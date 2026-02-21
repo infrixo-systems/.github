@@ -16,7 +16,6 @@ We help you make the right architectural decisions before they become expensive 
 | Repo | What it is |
 |---|---|
 | [agentic-ai-production-checklist](https://github.com/infrixo-systems/agentic-ai-production-checklist) | Checklist for shipping agentic AI safely to production |
-| [pre-scale-architecture-diagnostic](https://github.com/infrixo-systems/pre-scale-architecture-diagnostic) | Self-guided rubric to evaluate your system before a scaling phase |
 
 ## Insights
 
